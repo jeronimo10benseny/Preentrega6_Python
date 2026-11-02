@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "jajaja",
+        "contenido": "jajaja",
+        "autor": {
+            "nombre": "jajaja",
+            "bio": "jajaja",
+            "email": "autor@blog.com"
+        },
+        "tags": [
+            "jajaja"
+        ],
+        "likes": 0,
+        "estado": "publicado",
+        "es_destacado": false
+    }
+]
